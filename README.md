@@ -1,7 +1,7 @@
 ## Blog
 
-Ivan's blog.
+Ivan Sabat's blog.
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Licensed under the [MIT license](https://opensource.org/licenses/MIT).
